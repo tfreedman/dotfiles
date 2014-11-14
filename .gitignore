@@ -1,5 +1,5 @@
-/*
-/*/
+*
 !.nanorc
-!/.nano/
+!.nano/*
 !.gitignore
+|.gitconfig
